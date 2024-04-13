@@ -3326,9 +3326,9 @@ input, select, textarea {
 				padding: 0 1.25em;
 			}
 
+		}		
 		/* Container */
 		.form-container {
 			margin-left: 200px; /* Ajusta el margen izquierdo según sea necesario */
 			margin-right: 200px; /* Ajusta el margen derecho según sea necesario */
 		}
-}
